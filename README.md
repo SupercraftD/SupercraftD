@@ -1,10 +1,41 @@
-- 👋 Hi, I’m @SupercraftD
-- 👀 I’m interested in coding and game development
-- 🌱 I’m currently learning python and the godot engine
-- 💞️ I’m looking to collaborate on godot games and short python projects
-- 📫 How to reach me via my discord Supercraftd#5921
+Hey! I'm **SupercraftD**!
+However you came across my profile, **welcome**!
 
-<!---
-SupercraftD/SupercraftD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# What I Do
+
+I'm an indie game developer. I primarily use the Godot game engine with GDScript!
+
+I *love* dabbling in new things, so I often try out new languages, frameworks, and things like that!
+
+That's the reason I know a little of Python, JS, C#, C++, and Go without being too good at any of them!
+
+You can find my itch page at https://supercraftd.itch.io/
+
+I often post there with new games I make!
+
+# What I'm Doing Right Now
+
+I'm currently working on a game with a friend. I am the developer and he is the art.
+
+Other than that, I work on small projects in Godot, Python, and other! Sometimes I find small GitHub repos and work on them a little bit!
+
+If you want more updates, I rarely post on Reddit and Twitter! My social is down there somewhere
+
+# My Socials
+
+Twitter: @SupercraftDguy
+
+Reddit: u/SupercraftD
+
+Discord: Supercraftd#5921
+
+Youtube: SupercraftD
+
+Twitch: SupercraftD
+
+Itch: SupercraftD
+
+# Contact Me
+want to work on a project with me? Want me to check out your project? Just want to chat?
+
+Send me a message on any one of my socials ^^ ! (Most active on Reddit and Discord)
