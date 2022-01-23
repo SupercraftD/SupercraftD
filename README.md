@@ -23,17 +23,17 @@ If you want more updates, I rarely post on Reddit and Twitter! My social is down
 
 # My Socials
 
-Twitter: @SupercraftDguy
+Twitter: [@SupercraftDguy](https://twitter.com/SupercraftDguy)
 
-Reddit: u/SupercraftD
+Reddit: [u/SupercraftD](https://www.reddit.com/user/SupercraftD)
 
 Discord: Supercraftd#5921
 
-Youtube: SupercraftD
+Youtube: [SupercraftD](https://www.youtube.com/channel/UCCiIb9QVbiDhJorashqjVGw)
 
-Twitch: SupercraftD
+Twitch: [SupercraftD](https://www.twitch.tv/supercraftd)
 
-Itch: SupercraftD
+Itch: [SupercraftD](https://supercraftd.itch.io/)
 
 # Contact Me
 want to work on a project with me? Want me to check out your project? Just want to chat?
