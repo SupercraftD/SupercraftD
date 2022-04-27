@@ -29,8 +29,6 @@ If you want more updates, I rarely post on Reddit and Twitter! My social is down
 
 Twitter: [@SupercraftDguy](https://twitter.com/SupercraftDguy)
 
-Reddit: [u/SupercraftD](https://www.reddit.com/user/SupercraftD)
-
 Discord: Supercraftd#5921
 
 Youtube: [SupercraftD](https://www.youtube.com/channel/UCCiIb9QVbiDhJorashqjVGw)
