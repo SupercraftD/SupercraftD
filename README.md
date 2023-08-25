@@ -19,11 +19,9 @@ I often post there with new games I make!
 
 # What I'm Doing Right Now
 
-I'm currently working on a game with a friend. I am the developer and he is the art.
+I'm currently working on random small projects with p5.js, godot, etc.
 
 Other than that, I work on small projects in Godot, Python, and other! Sometimes I find small GitHub repos and work on them a little bit!
-
-If you want more updates, I rarely post on Reddit and Twitter! My social is down there somewhere
 
 # My Socials
 
@@ -40,4 +38,4 @@ Itch: [SupercraftD](https://supercraftd.itch.io/)
 # Contact Me
 want to work on a project with me? Want me to check out your project? Just want to chat?
 
-Send me a message on any one of my socials ^^ ! (Most active on Reddit and Discord)
+Send me a message on any one of my socials ^^ ! (Most active on Discord)
