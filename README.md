@@ -25,10 +25,6 @@ Other than that, I work on small projects in Godot, Python, and other! Sometimes
 
 # My Socials
 
-Twitter: [@SupercraftDguy](https://twitter.com/SupercraftDguy)
-
-Discord: Supercraftd#5921
-
 Youtube: [SupercraftD](https://www.youtube.com/channel/UCCiIb9QVbiDhJorashqjVGw)
 
 Twitch: [SupercraftD](https://www.twitch.tv/supercraftd)
@@ -38,4 +34,4 @@ Itch: [SupercraftD](https://supercraftd.itch.io/)
 # Contact Me
 want to work on a project with me? Want me to check out your project? Just want to chat?
 
-Send me a message on any one of my socials ^^ ! (Most active on Discord)
+Send me a message on any one of my socials
