@@ -1,7 +1,7 @@
 Hey! I'm **SupercraftD**!
 However you came across my profile, **welcome**!
 
-(I'm better than 99% of professionals at python)
+(I'm better than 99% of professionals at python... jk lol)
 
 ![im so cool](py3best.png)
 
@@ -25,11 +25,11 @@ Other than that, I work on small projects in Godot, Python, and other! Sometimes
 
 # My Socials
 
+Itch: [SupercraftD](https://supercraftd.itch.io/)
+
 Youtube: [SupercraftD](https://www.youtube.com/channel/UCCiIb9QVbiDhJorashqjVGw)
 
 Twitch: [SupercraftD](https://www.twitch.tv/supercraftd)
-
-Itch: [SupercraftD](https://supercraftd.itch.io/)
 
 # Contact Me
 want to work on a project with me? Want me to check out your project? Just want to chat?
