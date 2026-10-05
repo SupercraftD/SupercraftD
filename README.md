@@ -25,6 +25,6 @@ Hey! I'm David (**SupercraftD**) 👋
 - **Frameworks/Tools:** PyTorch, scikit-learn, Flask, Godot Engine, p5.js, Git, Linux, VS Code
 
 # Socials/Contact
-**Itch:** [SupercraftD](https://supercraftd.itch.io/)
-**LinkedIn:** [https://www.linkedin.com/in/david-zhu-a27b6828a/](https://www.linkedin.com/in/david-zhu-a27b6828a/)
-**Email:** dzhu700 (at) gmail (dot) com
+- **Itch:** [SupercraftD](https://supercraftd.itch.io/)
+- **LinkedIn:** [https://www.linkedin.com/in/david-zhu-a27b6828a/](https://www.linkedin.com/in/david-zhu-a27b6828a/)
+- **Email:** dzhu700 (at) gmail (dot) com
