@@ -1,37 +1,30 @@
-Hey! I'm **SupercraftD**!
-However you came across my profile, **welcome**!
+Hey! I'm David (**SupercraftD**) 👋
 
-(I'm better than 99% of professionals at python... jk lol)
+**High School Senior, Eagle Scout, Competitive Programmer, and Indie Game Developer** interested in machine learning, algorithmic problem solving, and game design/development.
 
-![im so cool](py3best.png)
+[View my Resume](https://github.com/user-attachments/files/33038828/DavidZhu_Resume.4.pdf)
 
-# What I Do
+# Highlighted Projects
+- [Racecar Evolution](https://github.com/SupercraftD/racecar-evolution): Web game made in Godot 4, simulating genetic evolution algorithm to train 2D race cars to complete a race track.
+- [Trenddit](https://github.com/SupercraftD/Trenddit): Live Reddit trends visualizer/analyzer. Winner of Brook Codes Hackathon 2025
+- [355Code Course Directory](https://github.com/SupercraftD/355Code-course-directory): Portal to custom-built web lesson interface for a local coding school, featuring lesson navigation, code editing, and in-browser execution.
+- See other pinned repos!
 
-I'm an indie game developer. I primarily use the Godot game engine with GDScript!
+# Experience
+- **ML Research Intern** @ University of Maryland: NLP + Explainable AI for algorithmic code analysis
+- **Software Engineering Intern** @ 355Code: Built in-house web learning platforms
+- **Co-President** @ Programming Competition Club: Algorithmic problem solving, leadership, and coaching
 
-I *love* dabbling in new things, so I often try out new languages, frameworks, and things like that!
+# Academics/Honors
+- **Competitive Programming:** USACO Silver Division, ACSL Gold Medalist
+- **Relevant Coursework:** AP CS A (5), AP CSP (5), AP Calc BC (5), AP Physics 1 (5)
+- **Currently Taking:** Multivariable Calculus, Linear Algebra
 
-That's the reason I know a little of Python, JS, C#, C++, and Go without being too good at any of them!
+# Tech/Skills
+- **Languages:** Python, C++, Java, JavaScript, GDScript, HTML/CSS
+- **Frameworks/Tools:** PyTorch, scikit-learn, Flask, Godot Engine, p5.js, Git, Linux, VS Code
 
-You can find my itch page at https://supercraftd.itch.io/
-
-I often post there with new games I make!
-
-# What I'm Doing Right Now
-
-I'm currently working on random small projects with p5.js, godot, etc.
-
-Other than that, I work on small projects in Godot, Python, and other! Sometimes I find small GitHub repos and work on them a little bit!
-
-# My Socials
-
-Itch: [SupercraftD](https://supercraftd.itch.io/)
-
-Youtube: [SupercraftD](https://www.youtube.com/channel/UCCiIb9QVbiDhJorashqjVGw)
-
-Twitch: [SupercraftD](https://www.twitch.tv/supercraftd)
-
-# Contact Me
-want to work on a project with me? Want me to check out your project? Just want to chat?
-
-Send me a message on any one of my socials
+# Socials/Contact
+**Itch:** [SupercraftD](https://supercraftd.itch.io/)
+**LinkedIn:** [https://www.linkedin.com/in/david-zhu-a27b6828a/](https://www.linkedin.com/in/david-zhu-a27b6828a/)
+**Email:** dzhu700 (at) gmail (dot) com
